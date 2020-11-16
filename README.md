@@ -12,13 +12,12 @@
 <a href="https://www.instagram.com/silv4b/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
-<br />
+<br/><br/>
 
 Hi, I'm [Bruno Silva](https://silv4b.github.io/), a newby UI Deisgner 🚀 from Brazil, currently, I'm a UI Designer at [Tigitale](https://tigitale.com.br/).
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+<br/>
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
