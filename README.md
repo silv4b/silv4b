@@ -5,6 +5,6 @@ Hi, I'm [Bruno Silva](https://silv4b.github.io/), a newby UI Deisgner 🚀 from 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Angular and UI/UX Design; 
+- 🌱 I’m currently learning about UI/UX Design; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@silv4b](https://www.instagram.com/silv4b);
