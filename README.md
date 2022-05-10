@@ -5,8 +5,8 @@ Hi, I'm [Bruno Silva](https://brunosilva.des.br/), an UI/UX Designer and Develop
 **Talking about Personal Stuffs:**
 
 - 🗺️ I'm based in Caicó, RN.
-- 👨🏽‍💻 I’m currently working on something cool using Delphi.
-- 🌱 Learning about UI/UX Design by photosynthesis.
+- 👨🏽‍💻 I'm currently working on cool stuff using Delphi and also VueJs.
+- 🌱 Learning about UI/UX, Vue and Delphi by photosynthesis.
 - 🎨 Sometimes I create themes for visual studo code.
 - 📫 How to reach me: [@silv4b](https://www.instagram.com/silv4b) or [my page](https://brunosilva.herokuapp.com/).
 
