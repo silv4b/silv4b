@@ -1,6 +1,6 @@
 ### Hey there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm [Bruno Silva](https://brunosilva.des.br/), an UI/UX Design and Delphi student 🚀 from Brazil.
+Hi, I'm [Bruno Silva](https://brunosilva.des.br/), an UI/UX Designer and Developer 🚀 from Brazil.
 
 **Talking about Personal Stuffs:**
 
