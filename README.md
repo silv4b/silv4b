@@ -15,7 +15,7 @@ Hi, I'm [Bruno Silva](https://brunosilva.des.br/), an UI/UX Designer and Develop
 Developer
 ---------
 
-### Skills
+### Tools|Techs I study
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>⠀
@@ -27,7 +27,7 @@ Developer
 <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/f4ec5347a36e06540a69376753a7c37a8cb5a136/topics/supabase/supabase.png" width="36" height="36" alt="Supabase" /></a>⠀
 </p>
 
-### Socials
+### Social Media
 
 <p align="left">
 <a href="https://www.github.com/silv4b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>⠀
