@@ -14,8 +14,8 @@ Hi, I'm [Bruno Silva](https://brunosilva.des.br/), an UI/UX Designer and Develop
 
 Developer
 ---------
-
-### Tools|Techs I study
+<!-- 
+### Tools
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>⠀
@@ -25,7 +25,7 @@ Developer
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>⠀
 <a href="https://quasar.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.quasar.dev/logo-v2/svg/logo.svg" width="36" height="36" alt="Heroku" /></a>⠀
 <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/f4ec5347a36e06540a69376753a7c37a8cb5a136/topics/supabase/supabase.png" width="36" height="36" alt="Supabase" /></a>⠀
-</p>
+</p> -->
 
 ### Social Media
 
