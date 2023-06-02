@@ -2,7 +2,7 @@
 
 ### Hey there 👋
 
-Hi, I'm [Bruno Silva](https://brunosilva.des.br/), an UI/UX Designer and Developer 🚀 from Brazil.
+Hi, I'm [Bruno Silva](https://silv4b.netlify.app/), an UI/UX Designer and Developer 🚀 from Brazil.
 
 **Talking about Personal Stuffs:**
 
